@@ -155,6 +155,19 @@ Many businesses require customizable websites but lack the technical expertise o
 
 ---
 
+## 👥 Team
+- Aditya Giri – Handled backend development, database modeling, API integration, and route protection.
+- Aniket Jatav – Strong pillar of our team; managed backend deployment and ensured smooth coordination under pressure.
+- Kanak Gupta – Contributed to frontend development with responsive design, route integration, state management and page optimizations.
+- Aditya Mudliar – Handled frontend development and UI design.
+
+---
+
+## 📃 License
+Licensed under the MIT License.
+
+---
+
 ## 🏁 Conclusion
 This project delivers a solid foundation for building scalable, customizable, and tenant-specific websites powered by dynamic backend logic and AI-generated frontend layout components. It demonstrates full-stack capabilities with a focus on modularity, clean architecture, and practical use cases in business environments.
 
